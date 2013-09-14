@@ -34,10 +34,7 @@ h4 {
 #bandcamp_player {
 	margin-top:50px;
 	opacity: .8;
-}
-
-#bandcamp_player:hover {
-	box-shadow: 1px 1px 5px white;
+	border: 1px solid #333;
 }
 
 .container {
