@@ -1,5 +1,12 @@
 body {
 	font-family: "Helvetica Neue", "Helvetica", Sans-Serif;
+	background-image: url(poor_jeremy_1.jpg) no-repeat center center fixed;
+
+}
+
+.transparent_bg {
+	background: url(tr_bg.png) repeat center center fixed;
+	padding: 50px;
 }
 
 .container {
@@ -17,4 +24,8 @@ h1 {
 
 h4 {
 	font-weight: 100;
+}
+
+.name {
+	margin-top:155px;
 }
