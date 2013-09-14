@@ -33,11 +33,11 @@ h4 {
 
 #bandcamp_player {
 	margin-top:50px;
-	opacity: .6;
+	opacity: .8;
 }
 
 #bandcamp_player:hover {
-	text-shadow: 1px 1px 5px white;
+	box-shadow: 1px 1px 5px white;
 }
 
 .container {
