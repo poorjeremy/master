@@ -9,12 +9,12 @@ body {
 	border: 1px solid #333;
 }
 
-iframe {
-	margin: auto;
+bandcamp_player {
+	text-align: center;
 	opacity: .35;
 }
 
-iframe {
+bandcamp_player:hover {
 	opacity: 1;
 }
 
