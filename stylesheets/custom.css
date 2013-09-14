@@ -28,6 +28,7 @@ h4 {
 	background: url(tr_bg.png) repeat center center fixed;
 	padding: 50px;
 	border: 1px solid #333;
+	margin-top:155px;
 }
 
 #bandcamp_player {
@@ -45,10 +46,6 @@ h4 {
 
 .center {
 	text-align: center;
-}
-
-.name {
-	margin-top:155px;
 }
 
 #shows {
