@@ -13,7 +13,7 @@ a {
 
 a:hover {
 	color: white;
-	cursor: url(smiley.gif),url(myBall.cur),auto;;
+	cursor: url(smiley.gif),auto;;
 }
 
 .transparent_bg {
