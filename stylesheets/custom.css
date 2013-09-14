@@ -1,12 +1,25 @@
 body {
 	font-family: "Helvetica Neue", "Helvetica", Sans-Serif;
-	background: url(images/poor_jeremy_1.jpg) no-repeat center center fixed;
+	background: url(poor_jeremy_1.jpg) no-repeat center center fixed;
+	background-size: 100%;
+	text-align: center;
 
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: white;
+	cursor: url(smiley.gif),url(myBall.cur),auto;;
+}
+
 .transparent_bg {
-	background: url(images/tr_bg.png) repeat center center fixed;
+	background: url(tr_bg.png) repeat center center fixed;
 	padding: 50px;
+	margin-top:155px;
 }
 
 .container {
@@ -27,5 +40,4 @@ h4 {
 }
 
 .name {
-	margin-top:155px;
 }
