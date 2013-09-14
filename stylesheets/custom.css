@@ -41,3 +41,58 @@ h4 {
 
 .name {
 }
+
+body {
+	font-family: "Helvetica Neue", "Helvetica", Sans-Serif;
+	background-image: url(poor_jeremy_1.jpg) no-repeat center center fixed;
+}
+
+.transparent_bg {
+	background: url(tr_bg.png) repeat center center fixed;
+	padding: 50px;
+	border: 1px solid #333;
+}
+
+#bandcamp_player {
+	margin-top:200px;
+	opacity: .35;
+}
+
+#bandcamp_player:hover {
+	opacity: 1;
+}
+
+.container {
+
+}
+
+.center {
+	text-align: center;
+}
+
+h1 {
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-weight: 100;
+}
+
+.name {
+	margin-top:155px;
+}
+
+#shows {
+	background: url(tr_bg.png) repeat center center fixed;
+	width:28%;
+	height: 700px;
+	float:right;
+}
+
+#links {
+	background: url(tr_bg.png) repeat center center fixed;
+	width: 72%;
+	height: 700px;
+	float:left;
+}
