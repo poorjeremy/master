@@ -3,7 +3,6 @@ body {
 	background: url(poor_jeremy_1.jpg) no-repeat center center fixed;
 	background-size: 100%;
 	text-align: center;
-
 }
 
 a {
@@ -13,21 +12,7 @@ a {
 
 a:hover {
 	color: white;
-	cursor: url(smiley.gif),auto;;
-}
-
-.transparent_bg {
-	background: url(tr_bg.png) repeat center center fixed;
-	padding: 50px;
-	margin-top:155px;
-}
-
-.container {
-
-}
-
-.center {
-	text-align: center;
+	cursor: url(smiley.gif),auto;
 }
 
 h1 {
@@ -37,14 +22,6 @@ h1 {
 
 h4 {
 	font-weight: 100;
-}
-
-.name {
-}
-
-body {
-	font-family: "Helvetica Neue", "Helvetica", Sans-Serif;
-	background-image: url(poor_jeremy_1.jpg) no-repeat center center fixed;
 }
 
 .transparent_bg {
@@ -70,29 +47,24 @@ body {
 	text-align: center;
 }
 
-h1 {
-	font-weight: 100;
-	text-transform: uppercase;
-}
-
-h4 {
-	font-weight: 100;
-}
-
 .name {
 	margin-top:155px;
 }
 
 #shows {
+	margin-top:50px;
 	background: url(tr_bg.png) repeat center center fixed;
-	width:28%;
+	width:25%;
 	height: 700px;
 	float:right;
+	text-align: left;
 }
 
 #links {
+	margin-top:50px;
 	background: url(tr_bg.png) repeat center center fixed;
-	width: 72%;
+	width: 68%;
 	height: 700px;
 	float:left;
+	text-align: left;
 }
