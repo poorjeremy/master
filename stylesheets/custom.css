@@ -48,21 +48,10 @@ h4 {
 	text-align: center;
 }
 
-#shows {
-	margin-top:50px;
-	padding: 50px;
-	background: url(tr_bg.png) repeat center center fixed;
-	width:25%;
-	height: 500px;
-	float:right;
-	text-align: left;
-}
-
 #links {
 	margin-top:50px;
 	padding: 50px;
 	background: url(tr_bg.png) repeat center center fixed;
-	width: 50%;
 	height: 500px;
 	float:left;
 	text-align: left;
