@@ -38,3 +38,17 @@ h4 {
 .name {
 	margin-top:155px;
 }
+
+#shows {
+	background: url(tr_bg.png) repeat center center fixed;
+	width:28%;
+	height: 700px;
+	float:right;
+}
+
+#links {
+	background: url(tr_bg.png) repeat center center fixed;
+	width: 72%;
+	height: 700px;
+	float:left;
+}
