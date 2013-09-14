@@ -41,14 +41,14 @@ h4 {
 
 #shows {
 	background: url(tr_bg.png) repeat center center fixed;
-	width:28%;
+	width:200px;
 	height: 700px;
 	float:right;
 }
 
 #links {
 	background: url(tr_bg.png) repeat center center fixed;
-	width: 72%;
+	width: 800px;
 	height: 700px;
 	float:left;
 }
