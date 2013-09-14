@@ -9,13 +9,13 @@ body {
 	border: 1px solid #333;
 }
 
-bandcamp_player {
+#bandcamp_player {
 	text-align: center;
 	opacity: .35;
 	width: 700px;
 }
 
-bandcamp_player:hover {
+#bandcamp_player:hover {
 	opacity: 1;
 }
 
