@@ -7,7 +7,7 @@ body {
 }
 
 .transparent_bg {
-	background: url(tr_bg.png) repeat center center fixed;
+	background: url(http://i.imgur.com/L1UBxwF.png), url(tr_bg.png) repeat center center fixed;
 	padding: 50px;
 	margin-top:155px;
 }
