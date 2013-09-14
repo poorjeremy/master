@@ -1,11 +1,11 @@
 body {
 	font-family: "Helvetica Neue", "Helvetica", Sans-Serif;
-	background: url(poor_jeremy_1.jpg) no-repeat center center fixed;
+	background: url(images/poor_jeremy_1.jpg) no-repeat center center fixed;
 
 }
 
 .transparent_bg {
-	background: url(tr_bg.png) repeat center center fixed;
+	background: url(images/tr_bg.png) repeat center center fixed;
 	padding: 50px;
 }
 
