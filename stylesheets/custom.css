@@ -6,6 +6,16 @@ body {
 
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: white;
+	cursor: url(smiley.gif),url(myBall.cur),auto;;
+}
+
 .transparent_bg {
 	background: url(tr_bg.png) repeat center center fixed;
 	padding: 50px;
