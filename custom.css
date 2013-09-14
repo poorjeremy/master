@@ -12,6 +12,7 @@ body {
 bandcamp_player {
 	text-align: center;
 	opacity: .35;
+	width: 700px;
 }
 
 bandcamp_player:hover {
