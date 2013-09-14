@@ -6,6 +6,16 @@ body {
 .transparent_bg {
 	background: url(tr_bg.png) repeat center center fixed;
 	padding: 50px;
+	border: 1px solid #333;
+}
+
+#bandcamp_player {
+	margin: auto;
+	opacity: .35;
+}
+
+#bandcamp_player:hover {
+	opacity: 1;
 }
 
 .container {
