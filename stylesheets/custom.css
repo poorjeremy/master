@@ -1,6 +1,6 @@
 body {
 	font-family: "Helvetica Neue", "Helvetica", Sans-Serif;
-	background: url(http://i.imgur.com/L1UBxwF.png) repeat center center fixed, url(poor_jeremy_1.jpg) no-repeat center center fixed;
+	background: url(poor_jeremy_1.jpg) no-repeat center center fixed;
 	background-size: 100%;
 	text-align: center;
 
@@ -26,7 +26,7 @@ h1 {
 }
 
 h4 {
-	font-weight: 100;
+	font-weight: 200;
 }
 
 .name {
